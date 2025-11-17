@@ -1,0 +1,101 @@
+city,disaster_type,urban_planning_type,disaster_severity,population_density,avg_income,response_time_hr,damage_cost_usd,recovery_time_days,resilience_score
+San Francisco,Tornado,Resilient Design,9.29,8195,46299,34.28,347178.03,128,68.77
+Chicago,Flood,Mixed Use,1.4,2885,32960,61.29,95790.92,29,96.04
+Miami,Hurricane,Dense Urban,5.97,5637,79894,34.1,408170.01,67,77.33
+Boston,Flood,Resilient Design,4.42,1096,76105,22.2,199491.34,119,72.67
+Phoenix,Hurricane,Resilient Design,1.66,2103,62858,7.97,124875.11,26,93.94
+Miami,Wildfire,Dense Urban,1.38,2283,119538,31.91,138068.15,27,91.46
+Denver,Wildfire,Suburban Sprawl,5.85,6654,73573,40.19,344452.47,89,78.9
+Boston,Tornado,Mixed Use,4.9,3192,74922,71.73,265330.45,114,86.15
+Phoenix,Hurricane,Resilient Design,4.29,5514,119208,29.22,121568.7,76,79.46
+Houston,Wildfire,Resilient Design,7.49,6531,103874,3.92,656797.17,38,49.53
+Seattle,Wildfire,Resilient Design,7.15,3525,110352,21.1,335163.16,83,82.26
+Phoenix,Hurricane,Resilient Design,7.68,3531,84379,47.5,653084.47,150,48.58
+Boston,Wildfire,Mixed Use,4.67,8391,112603,29.72,179634.49,63,87.9
+Houston,Wildfire,Suburban Sprawl,9.52,3705,64741,38.46,615035.48,276,36.73
+Miami,Wildfire,Mixed Use,5.8,1916,58758,41.87,571266.55,78,61.26
+Miami,Heatwave,Green Infrastructure,7.38,1027,98146,66.72,431385.31,165,57.87
+San Francisco,Heatwave,Mixed Use,8.92,5526,102848,1.72,850579.16,47,50.03
+San Francisco,Tornado,Dense Urban,5.57,2743,111959,22.19,375946.99,108,84.61
+Chicago,Flood,Resilient Design,6.7,5480,64513,42.08,410935.51,88,73.91
+San Francisco,Wildfire,Resilient Design,3.87,6253,61051,22.43,88600.66,80,87.98
+Denver,Hurricane,Dense Urban,5.11,3369,80277,14.53,326822.71,118,86.29
+Houston,Flood,Mixed Use,8.02,6785,117773,29.06,503047.93,136,54.43
+Phoenix,Heatwave,Resilient Design,7.27,4109,104278,14.25,300314.91,165,75.44
+Seattle,Heatwave,Mixed Use,4.37,3500,92163,5.77,370726.35,24,89.15
+Los Angeles,Heatwave,Resilient Design,7.92,7499,72778,3.1,274063.87,236,64.73
+Seattle,Heatwave,Resilient Design,8.24,2600,85769,10.51,436332.09,76,48.12
+San Francisco,Heatwave,Green Infrastructure,9.8,7484,65976,1.57,861121.26,235,32.68
+Chicago,Tornado,Resilient Design,1.96,4960,91141,9.7,98689.49,13,95.59
+Houston,Heatwave,Green Infrastructure,7.37,3073,65954,4.23,109899.4,80,50.46
+Phoenix,Wildfire,Suburban Sprawl,5.06,4743,84239,25.06,257326.37,72,87.46
+Los Angeles,Tornado,Suburban Sprawl,6.58,4945,95230,65.81,150494.67,101,78.49
+Chicago,Heatwave,Mixed Use,5.1,4389,98303,35.29,269452.56,75,72.04
+Boston,Flood,Mixed Use,2.03,2741,95239,15.1,56685.46,20,90.65
+Miami,Heatwave,Suburban Sprawl,9.96,7118,87422,64.87,504127.07,96,76.9
+Houston,Flood,Resilient Design,1.61,4853,82923,9.51,145251.14,15,91.99
+Chicago,Hurricane,Resilient Design,2.23,6253,109064,68.26,62473.89,25,84.82
+San Francisco,Wildfire,Dense Urban,3.9,4694,75353,68.27,221356.91,41,90.65
+Phoenix,Hurricane,Suburban Sprawl,1.72,1653,86626,53.15,110910.71,6,94.58
+Seattle,Heatwave,Dense Urban,7.79,2864,75242,31.52,276643.4,166,65.45
+Seattle,Heatwave,Mixed Use,2.21,6432,92908,33.86,93400.95,24,89.49
+San Francisco,Wildfire,Resilient Design,4.92,9056,41959,34.37,230155.15,57,87.58
+Denver,Flood,Green Infrastructure,9.36,3588,87840,33.41,929610.52,136,34.65
+Houston,Tornado,Suburban Sprawl,2.66,9882,114123,68.96,151828.25,68,93.7
+New York,Wildfire,Suburban Sprawl,9.28,2850,83907,32.29,145754.5,192,80.86
+Phoenix,Hurricane,Dense Urban,8.95,6965,111290,17.95,669998.12,185,58.0
+Houston,Wildfire,Dense Urban,6.33,6878,107537,3.0,462604.94,181,69.49
+Boston,Heatwave,Dense Urban,7.9,7825,111016,46.37,433249.3,157,72.75
+New York,Flood,Dense Urban,3.09,1434,103563,15.12,211903.26,54,90.4
+Houston,Wildfire,Green Infrastructure,4.73,6421,101121,34.08,73865.98,120,81.31
+Boston,Hurricane,Resilient Design,4.59,4593,48131,37.18,83538.4,19,88.29
+Chicago,Hurricane,Mixed Use,8.12,5059,66302,46.77,262550.44,156,54.48
+Boston,Tornado,Mixed Use,3.69,2771,93142,5.53,364766.9,74,76.75
+Boston,Flood,Resilient Design,3.71,1510,37972,71.9,320416.06,53,90.57
+Miami,Hurricane,Suburban Sprawl,7.84,7126,37367,37.58,190460.1,89,64.47
+Boston,Tornado,Suburban Sprawl,6.93,1257,30866,38.79,326019.18,23,61.1
+New York,Wildfire,Suburban Sprawl,3.99,8751,116136,26.79,202290.45,22,78.89
+Chicago,Flood,Suburban Sprawl,7.02,4027,48430,34.9,661765.67,22,72.48
+Miami,Heatwave,Mixed Use,8.41,9275,82028,46.11,177892.29,32,67.51
+Los Angeles,Flood,Suburban Sprawl,5.64,5558,78374,33.28,304159.49,105,64.21
+New York,Flood,Suburban Sprawl,8.46,1722,30464,24.68,184296.08,249,76.23
+New York,Tornado,Green Infrastructure,8.31,7637,107337,16.11,110565.55,83,46.21
+Houston,Hurricane,Suburban Sprawl,4.31,9507,64959,57.88,324842.33,22,78.42
+Denver,Heatwave,Suburban Sprawl,1.38,6776,110589,71.87,47941.31,40,90.69
+Boston,Tornado,Green Infrastructure,10.0,5415,105529,3.86,780341.54,156,47.44
+Houston,Hurricane,Dense Urban,7.59,9962,42203,24.99,748731.51,205,58.1
+New York,Hurricane,Mixed Use,4.45,3458,53456,67.11,387645.2,79,70.79
+Chicago,Tornado,Mixed Use,2.03,5564,105248,17.06,98891.75,36,88.13
+Miami,Tornado,Mixed Use,2.19,6718,39016,63.43,94825.02,15,86.48
+Seattle,Heatwave,Resilient Design,1.1,4913,110482,49.58,85598.07,7,96.94
+Los Angeles,Hurricane,Green Infrastructure,8.8,2166,91894,64.15,484242.69,232,65.62
+Houston,Hurricane,Green Infrastructure,3.06,2463,43425,8.33,131848.97,33,88.02
+Seattle,Tornado,Green Infrastructure,2.13,6194,114192,6.27,110493.31,36,94.38
+Chicago,Wildfire,Mixed Use,8.01,2251,96910,45.96,462732.04,65,52.88
+Seattle,Wildfire,Mixed Use,3.23,6241,65554,59.65,198713.91,20,82.64
+San Francisco,Hurricane,Dense Urban,2.82,9824,65537,67.24,204787.44,18,85.69
+Houston,Tornado,Resilient Design,9.27,6310,94042,2.38,867513.83,247,42.93
+San Francisco,Heatwave,Mixed Use,6.81,2465,115498,41.76,396274.05,153,54.47
+New York,Tornado,Resilient Design,3.07,4608,30942,6.04,205142.72,28,79.96
+Boston,Flood,Dense Urban,6.76,8192,31403,15.32,467429.58,167,76.8
+Seattle,Tornado,Green Infrastructure,3.35,7670,96353,8.56,55323.83,36,77.44
+Seattle,Wildfire,Dense Urban,8.24,9486,90889,4.57,267107.79,213,64.73
+Seattle,Wildfire,Resilient Design,9.01,3573,37019,8.19,256717.6,73,50.58
+Boston,Tornado,Suburban Sprawl,1.34,5512,82818,11.21,86621.86,29,97.07
+New York,Wildfire,Dense Urban,8.24,1752,82550,5.89,427264.17,87,48.72
+Houston,Hurricane,Dense Urban,5.09,7121,84505,50.84,469495.33,119,69.38
+Houston,Flood,Green Infrastructure,9.28,9071,110455,1.47,808788.55,267,42.08
+Seattle,Tornado,Resilient Design,3.65,9282,109354,31.54,297364.07,22,80.73
+San Francisco,Tornado,Resilient Design,4.57,2676,30963,37.32,318431.2,117,82.29
+San Francisco,Flood,Suburban Sprawl,9.11,9955,50706,6.24,866182.82,270,68.15
+Houston,Tornado,Mixed Use,3.89,2311,72981,47.93,146238.13,74,83.93
+Los Angeles,Hurricane,Dense Urban,8.94,6992,82855,26.98,411804.75,164,73.41
+Houston,Hurricane,Green Infrastructure,2.59,9185,47625,71.68,223846.58,43,85.49
+San Francisco,Hurricane,Green Infrastructure,4.32,2795,84596,42.44,352587.73,97,76.52
+Denver,Heatwave,Mixed Use,6.06,1781,82219,8.03,149668.04,53,80.18
+Seattle,Wildfire,Dense Urban,2.19,9837,77953,38.69,201896.48,55,92.81
+Houston,Hurricane,Resilient Design,7.18,4559,41362,64.66,162256.05,45,59.44
+Los Angeles,Wildfire,Dense Urban,7.62,2955,79440,3.89,267464.7,77,78.64
+Los Angeles,Hurricane,Green Infrastructure,6.83,3522,95323,67.22,247685.08,150,72.15
+Boston,Tornado,Green Infrastructure,8.9,9706,95972,54.42,163641.0,185,42.06
+San Francisco,Wildfire,Mixed Use,1.72,1618,80374,67.08,79236.3,35,94.1
